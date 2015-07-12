@@ -1,0 +1,13 @@
+###############################################################################
+#						                                      MMCEssentials                                                         
+#  				                                         By Lee_lawd93                                                                                   
+###############################################################################
+  
+hideplugins:
+  # Enable or Disable hiding the plugin's list
+  enabled: true
+  # The list of 'fake' plugin's to display. (Separate plugin's using , )
+  list: iCraftPatches, Essentials, GriefPrevention, Enjin, WorldGuard, WorldEdit, Factions
+  
+# DO NOT TOUCH - THIS WILL ERASE YOUR CONFIG SETTINGS
+version: 1
